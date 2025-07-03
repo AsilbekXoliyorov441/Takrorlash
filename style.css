@@ -1,0 +1,63 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card{
+  margin-top: 30px;
+  background-color: bisque;
+  width: 290px;
+  padding: 20px;
+  display: inline-block;
+  border: 5px solid orangered;
+}
+
+a{
+  text-decoration: none;
+}
+
+.rasm{
+  width: 180px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 10px;
+}
+
+.ismi , .kasbi , .tavsifi{
+  text-align: center;
+}
+
+.container{
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+header{
+  background-color: rgb(166, 166, 255);
+}
+
+
+.logo{
+  vertical-align: middle;
+}
+
+.menu{
+  display: inline-block;
+ list-style: none; 
+ margin-left: 60px;
+}
+
+.menu li{
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.menu li a{
+  font-size: 22px;
+}
